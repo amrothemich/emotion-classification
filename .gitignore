@@ -130,3 +130,6 @@ dmypy.json
 
 # Data
 *.tar.gz
+
+# Vector caches
+.vector_cache
